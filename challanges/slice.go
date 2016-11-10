@@ -1,16 +1,16 @@
 package main
 
+import "fmt"
+
 func main() {
 
-	a := make([]int, 3)
+	a := []int{9, 8, 7, 6, 5}
 	b := a[0:2]
 	b[1] = 2
 
-	for i := 0; i < 10; i++ {
-		a = append(a, 5)
-	}
+	fmt.Println(a)
 
-	if a[1] != 5 {
+	if a[1] == 2 {
 		panic("oh no!")
 	}
 
