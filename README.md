@@ -130,7 +130,7 @@ a = append(a, 1)
 a[2] = 42
 ```
 
-![append](img/append3.png)
+![append](img/append2.png)
 
 ### Interfaces
 
@@ -164,7 +164,7 @@ What is important is to understand that interface is a compound of interface and
 var err error // err variable with error interface
 ```
 
-[Nil Interface](img/iface1.png)
+![Nil Interface](img/iface1.png)
 
 When you return nil in the function with return type error, you are returning this object.
 
