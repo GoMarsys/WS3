@@ -1,3 +1,5 @@
+// $ go test challanges/challange_interface*
+//
 // fix the code to make the test passed
 
 package challange_interface

@@ -1,3 +1,5 @@
+// $ go test challanges/challange_slice*
+//
 // your task is to return the subslice, in a way,
 // that it does not point to the original Underlying array
 

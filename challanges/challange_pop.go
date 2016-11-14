@@ -1,3 +1,5 @@
+// $ go test challanges/challange_pop*
+//
 // Pop the slice in the 3 most idiomatic way
 //
 // 1. with slicing

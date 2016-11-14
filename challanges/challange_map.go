@@ -1,3 +1,5 @@
+// $ go test challanges/challange_map*
+
 // fix the code so it won't panic with "assignment to entry in nil map"
 // and set int 1 under the string key "one"
 
