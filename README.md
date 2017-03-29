@@ -1,4 +1,4 @@
-GoMarsys Workshop 3.
+GoWorkshop 3.
 ====================
 
 # Gotcha
